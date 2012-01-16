@@ -1,0 +1,12 @@
+ghhgjg
+ghgfj
+fchgfh
+fgfhLiczba wierszy w pliku jest rowna:  4
+Liczba znaków jest rowna:   24
+wielkosc pliku:   0.0273438
+Liczba wierszy w pliku jest rowna:  7
+Liczba znaków jest rowna:   121
+wielkosc pliku:   0.125
+Liczba wierszy w pliku jest rowna:  10
+Liczba znaków jest rowna:   215
+wielkosc pliku:   0.219727

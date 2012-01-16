@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1320349977 source:c:\users\magda\repozytorium\zgadywanka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
