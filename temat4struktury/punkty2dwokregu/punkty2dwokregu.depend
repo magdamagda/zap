@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1320510460 source:c:\users\magda\repozytorium\punkty2dwokregu\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
