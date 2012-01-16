@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1321266964 source:c:\users\magda\repozytorium\funkcjadrukujaca\main.cpp
+	<iostream>
+	<fstream>
+

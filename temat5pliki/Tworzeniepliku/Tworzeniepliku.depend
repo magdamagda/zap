@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1321039508 source:c:\users\magda\repozytorium\tworzeniepliku\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+
+1321039508 source:c:\users\magda\zap\temat5pliki\tworzeniepliku\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+

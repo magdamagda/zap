@@ -1,0 +1,2 @@
+TO jest Plik Tekstowy.
+2+2+365,36-9
